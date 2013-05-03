@@ -1,0 +1,7 @@
+name 'backup'
+version '1.0.0'
+author 'Chris Laskey'
+summary 'Push-based round-robin automated backups for project files and database data.'
+description 'Push-based round-robin automated backups for project files and database data.'
+license 'MIT License (http://opensource.org/licenses/MIT)'
+project_page 'http://github.com/chrislaskey'
