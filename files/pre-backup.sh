@@ -13,7 +13,7 @@ parse_options () {
 	done
 } ; parse_options $@
 
-mysql_root_envvars="/data/mysql/mysql_envvars.sh"
+mysql_root_envvars="/data/puppet/mysql_envvars.sh"
 project_config_dir=".config"
 project_config_path="${project_path}/${project_config_dir}"
 
